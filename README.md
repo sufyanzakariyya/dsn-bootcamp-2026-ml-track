@@ -1,6 +1,6 @@
 # DSN Bootcamp Qualification Hackathon 2026: ML Track
 **Author:** Sufyan Zakariyya Sani  
-**Challenge:** Predict total sales for a given product at a given store format (Regression Task evaluated via Root Mean Squared Error)[cite: 1].
+**Challenge:** Predict total sales for a given product at a given store format (Regression Task evaluated via Root Mean Squared.
 
 ---
 
